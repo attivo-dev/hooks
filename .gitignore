@@ -43,3 +43,6 @@ yarn-error.log*
 # Optional: if you're using Yarn
 .yarn/
 .yarnrc
+
+#
+package

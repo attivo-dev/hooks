@@ -38,16 +38,17 @@
   "publishConfig": {
     "access": "public"
   },
+  "homepage": "https://github.com/attivo-dev/hooks",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/attivo-dev/hooks.git"
   },
-  "keywords": [
-    "generator",
-    "random",
-    "security"
-  ],
   "bugs": {
     "url": "https://github.com/attivo-dev/hooks/issues"
-  }
+  },
+  "keywords": [
+    "attivo",
+    "feature",
+    "flags"
+  ]
 }
